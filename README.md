@@ -2,7 +2,7 @@
 
 **Naciste sin magia. Un dragón te la dio en sueños. Ahora tienes que aprender a usarla antes de que te use a ti.**
 
-Archmage es un RPG táctico por turnos en pixel art, de fantasía nórdica. Mueves a tu grupo casilla por casilla, eliges cada hechizo y cada paso cuenta: el agua apaga el fuego, la altura te da alcance, un empujón bien puesto manda a un enemigo al vacío.
+Archmage es un RPG táctico por turnos en pixel art, de fantasía. Mueves a tu grupo casilla por casilla, eliges cada hechizo y cada paso cuenta: el agua apaga el fuego, la altura te da alcance, un empujón bien puesto manda a un enemigo al vacío.
 
 ![Combate en la Arena de Vatnvik](screenshots/combate.jpg)
 
