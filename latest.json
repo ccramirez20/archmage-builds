@@ -1,0 +1,16 @@
+{
+  "version": "1.2.5",
+  "notes": "1.2.5: el aviso de actualizar lee el manifiesto de un solo servidor (sin redirecciones) y ya no muestra letrero si falla.",
+  "platforms": {
+    "windows": {
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.2.5/Archmage-1.2.5.exe",
+      "sha256": "e197377259d02bcf063addc16d670cd3d7e47557bcdac31c73f1841c086328fc",
+      "size": 213873640
+    },
+    "android": {
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.2.5/Archmage-1.2.5.apk",
+      "sha256": "c5d1fc7da304301d4785317634ec8b0fc7f33814c1d7238173925e271bc10dbb",
+      "size": 129650875
+    }
+  }
+}
