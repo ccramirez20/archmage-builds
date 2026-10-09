@@ -1,16 +1,16 @@
 {
-  "version": "1.2.5",
-  "notes": "1.2.5: el aviso de actualizar lee el manifiesto de un solo servidor (sin redirecciones) y ya no muestra letrero si falla.",
+  "version": "1.2.6",
+  "notes": "Tarjeta de unidad y meta del tutorial en los márgenes del tablero; la elección de mejora de la Torre y otras pantallas ya no se salen en tablet.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.2.5/Archmage-1.2.5.exe",
-      "sha256": "e197377259d02bcf063addc16d670cd3d7e47557bcdac31c73f1841c086328fc",
-      "size": 213873640
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.2.6/Archmage-1.2.6.exe",
+      "sha256": "14e1c2728e6c8ce6032fdfa850ebcce2e6eb4c2528f58a1ab80f777ab2d96775",
+      "size": 213874664
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.2.5/Archmage-1.2.5.apk",
-      "sha256": "c5d1fc7da304301d4785317634ec8b0fc7f33814c1d7238173925e271bc10dbb",
-      "size": 129650875
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.2.6/Archmage-1.2.6.apk",
+      "sha256": "f13af121c60a0cb5721dc96248a817a0fc75411cece11948f9fd5bb4ca3c6760",
+      "size": 129654971
     }
   }
 }
