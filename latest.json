@@ -1,16 +1,16 @@
 {
-  "version": "1.2.6",
-  "notes": "Tarjeta de unidad y meta del tutorial en los márgenes del tablero; la elección de mejora de la Torre y otras pantallas ya no se salen en tablet.",
+  "version": "1.3.0",
+  "notes": "- Acto 1 nuevo: el sueño del dragón paso a paso, la lección de Gerd en el muelle y una decisión por Liv con dos caminos.\n- Menú nuevo en fichas con íconos, sobre Vatnvik que alterna noche y amanecer con un dragón en el cielo. «Elige tu mago» deja activo al que eliges; «Introducción» rejuega el Acto 1 sin tocar tu partida.\n- Rin despierta en su casa y puedes explorarla antes de bajar al muelle.\n- Grimorio fuera de combate: tus hechizos, los que vienen y a qué nivel, tus gemas y tu mazo de duelo.\n- Antes de pelear en Arena y Torre colocas a tu grupo, más cerca del enemigo.\n- Torre: «Desafiar» y eliges tus dos aliados para la subida.\n- La segunda escuela llega de a un hechizo: el primero con las runas, los demás tres niveles después de su nivel normal.\n- Cualquier hechizo de daño rompe cajas y barriles. Lo que queda depende de tu elemento y dura dos rondas.\n- Seis hechizos nuevos, uno por escuela: invocar marea, brasa trampa, piel de granito, trueque de viento, prisión de sombra y paso de luz.\n- Arena: la tarjeta de desbloqueo muestra qué abres y cuánto te falta.\n- Arena: cada mapa ajustado para que las victorias queden entre 40 y 60 %.\n- Duelo: equipos, unidades y palabras de dragón equilibrados entre 40 y 60 %.\n- Veintidós íconos de hechizos redibujados: cada uno cuenta lo que hace y no se repiten dentro de una escuela.\n- Doce hechizos con una segunda mecánica: Témpano (entumece), Marejada (deja suelo encharcado), Chispa (detona la quemadura), Anillo de fuego (ancla al del centro), Adoquín (deja escombro), Guijarro (esquirlas), Ráfaga (estela de viento), Empellón (avanzas tras el golpe), Mordisco sombrío (marca), Punzada sombría (silencio), Destello vital (purifica) y Rayo solar (deslumbra).\n- Terreno difícil: el suelo encharcado y el escombro cuestan 1 PM más por casilla.\n- Tu grupo siempre empieza en la mitad izquierda del mapa y los enemigos en la derecha, con una formación distinta en cada mapa; hay dos cajas en cada mapa, también en los duelos.\n- «Elige tu mago» muestra tiempo de juego, partidas de Arena, piso más alto de la Torre y duelos; en el título la versión queda arriba a la izquierda.\n- La tarjeta de la Arena separa la lengua de dragón del próximo hechizo.\n- Balance final: escuelas, lenguas, equipos y unidades del duelo entre 40 y 60 %; mapas de Arena reajustados.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.2.6/Archmage-1.2.6.exe",
-      "sha256": "14e1c2728e6c8ce6032fdfa850ebcce2e6eb4c2528f58a1ab80f777ab2d96775",
-      "size": 213874664
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.3.0/Archmage-1.3.0.exe",
+      "sha256": "7a59c7b0f42820e0d93a6194bb06e9eb01f47637fdca90fba9f3fb2298d2e5bf",
+      "size": 214085984
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.2.6/Archmage-1.2.6.apk",
-      "sha256": "f13af121c60a0cb5721dc96248a817a0fc75411cece11948f9fd5bb4ca3c6760",
-      "size": 129654971
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.3.0/Archmage-1.3.0.apk",
+      "sha256": "5c5f06ed57d0cfc2d9b3bb57fb75a051688637c8a6c3ac40d1466e61047f2796",
+      "size": 129802547
     }
   }
 }
