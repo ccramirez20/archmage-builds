@@ -9,8 +9,8 @@
     },
     "android": {
       "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.3.0/Archmage-1.3.0.apk",
-      "sha256": "5c5f06ed57d0cfc2d9b3bb57fb75a051688637c8a6c3ac40d1466e61047f2796",
-      "size": 129802547
+      "sha256": "c4ffcda0890e85e92d6b08ea7ac33d3034722c407680680ce5b50aa92f2c7952",
+      "size": 127235775
     }
   }
 }
