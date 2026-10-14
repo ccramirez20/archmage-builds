@@ -1,15 +1,15 @@
 {
-  "version": "1.4.2",
+  "version": "1.4.3",
   "notes": "Tutoriales más sencillos: la lección de Gerd, el cabo y el examen práctico tienen enemigos más débiles; se ganan con los tres hechizos de inicio de cualquier elemento.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.2/Archmage-1.4.2.exe",
-      "sha256": "61f11b38f2204ea8be3030428714b749d775e8b3f8002a620224cf87bc72ac63",
-      "size": 214980408
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.3/Archmage-1.4.3.exe",
+      "sha256": "dfb5cefc3a9f82b753ac3f854d6a678c6b03bef307acafa3c6109b16c30f77fd",
+      "size": 214981000
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.2/Archmage-1.4.2.apk",
-      "sha256": "8f48cdb7e6728c57ac7405c309165ef0dc5a4d32353b6f1d087ab2eb9f9d8975",
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.3/Archmage-1.4.3.apk",
+      "sha256": "f5a99e2b9582a44d016cd531f8e21f0e3a7fe9ce0356d8a4631d58ed94877501",
       "size": 128844087
     }
   }
