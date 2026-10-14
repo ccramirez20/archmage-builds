@@ -1,16 +1,16 @@
 {
-  "version": "1.4.4",
-  "notes": "Tutorial: la altura vale con Rin o Brynja; marco magenta pulsante para el hechizo sugerido; pista según clase y situación; lecciones de PA/PM, vida, maná, click en enemigo y ficha de hechizo.",
+  "version": "1.4.5",
+  "notes": "- Crear mago en una sola pantalla: cuerpo, peinado y escuelas. Se quitó la elección de origen.\n- Los hechizos de lengua de dragón ya muestran su icono.\n- Las tarjetas de información, el habla del jefe y los objetivos ya no tapan el mapa: tienen columnas propias a los lados.\n- Textos de escuelas y del sueño del dragón más claros y sin repeticiones.\n- Tutorial: los trepes cuentan para Brynja, puntero magenta en el hechizo y lecciones de pasar el cursor y hacer click.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.4/Archmage-1.4.4.exe",
-      "sha256": "89d00378a21dae7ba7f9f1372cc7e51773596c709651a6e3648746922488bb35",
-      "size": 214984120
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.5/Archmage-1.4.5.exe",
+      "sha256": "f8451ff33dae691e2f718b9f3cada246956ce3db91a23815e9776532e6349b40",
+      "size": 214979696
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.4/Archmage-1.4.4.apk",
-      "sha256": "8e79f38dfc14cdae82d8ddc63e503fde30ccd3b1a27340bd73a98c5330eca24c",
-      "size": 128848183
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.5/Archmage-1.4.5.apk",
+      "sha256": "ad95dc8686bd11346602a4b89e7e44258ff900a038c1e517eaa6ed0e0c9f07eb",
+      "size": 130725896
     }
   }
 }
