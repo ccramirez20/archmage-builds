@@ -1,16 +1,16 @@
 {
-  "version": "1.4.0",
-  "notes": "- Las rocas y los muros del mapa tapan la vista; los fosos no. Quien está en lo alto sigue viendo por encima.\n- Tutorial del cabo: el escondite queda a 3 casillas y se cumple al llegar; Runa y el rastreador son más fáciles.\n- Torre: eliges dos aliados antes de entrar; el Centinela ya pelea de tu lado.\n- Torre: pantalla con retratos, vida y maná de los tres, el piso y las mejoras de la subida, cada una explicada al pasar el cursor.\n- Torre: salas sorpresa tras los pisos 2, 4, 7 y 9 (banquete, manantial y altar) y una tarjeta «Cómo funciona».\n- Durante el combate de la Torre ves el piso y tus mejoras arriba a la derecha.\n- Colocar al grupo: el primer clic elige, el segundo coloca y suelta; «Fin de turno» queda apagado hasta empezar y todos miran al enemigo más cercano.\n- Grimorio: una página por escuela con pestañas «primaria» y «secundaria».\n- Arena: «Campo de práctica» es un botón aparte; el engaste de gemas se explica en dos pasos y se aclara cuántos engastes valen en la Arena.\n- Duelo en línea: hace falta registrar el nombre antes del primer duelo; práctica destacada; pasos más cortos.\n- Escudo con su propia franja celeste, efectos de campo con tarjeta, y al leer a un enemigo se oculta tu alcance para no mezclarlos.\n- La palabra de dragón brilla; el puntero del tutorial es blanco. Los hechizos de un solo uso lo dicen.\n- «Cambiar de mago» se cierra al tocar fuera; «Introducción» retoma donde la dejaste; Ajustes en cuatro grupos.\n- La revista de la casa muestra solo la imagen y su frase.\n- Torre: explica cuántos engastes has desbloqueado para la Arena y cuándo se abre el siguiente; un botón te lleva al Grimorio a engastar y vuelves a la Torre.\n- Crear mago: trasfondo y escuelas con lo que la historia usa de verdad, sin páginas de lore de más.",
+  "version": "1.4.1",
+  "notes": "Tutorial del muelle más sencillo: Gerd tiene menos vida y no llama a la marea en la fase real, para ganar con los tres hechizos de inicio de cualquier elemento.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.0/Archmage-1.4.0.exe",
-      "sha256": "472cdf6d72b4d2bf170bcb17f5cf4da4a43929ab35e9c3b1cb71836b7d5d226a",
-      "size": 214980952
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.1/Archmage-1.4.1.exe",
+      "sha256": "4bd391e913fab229e0764d8c5109aaaea4b9bbd2f8e6d6c9454e39e3b75ae03e",
+      "size": 214980920
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.0/Archmage-1.4.0.apk",
-      "sha256": "bf2495cadb18ee2a3f7c5deaed22585114ff0e97baf3217fd5c69d9e1d33a2f1",
-      "size": 130720534
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.1/Archmage-1.4.1.apk",
+      "sha256": "220e1e9ac75085941599f7e3e7cab3a762c484d7c47d59916f85bc08a8ccffcf",
+      "size": 128844087
     }
   }
 }
