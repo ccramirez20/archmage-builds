@@ -1,15 +1,15 @@
 {
-  "version": "1.4.1",
-  "notes": "Tutorial del muelle más sencillo: Gerd tiene menos vida y no llama a la marea en la fase real, para ganar con los tres hechizos de inicio de cualquier elemento.",
+  "version": "1.4.2",
+  "notes": "Tutoriales más sencillos: la lección de Gerd, el cabo y el examen práctico tienen enemigos más débiles; se ganan con los tres hechizos de inicio de cualquier elemento.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.1/Archmage-1.4.1.exe",
-      "sha256": "4bd391e913fab229e0764d8c5109aaaea4b9bbd2f8e6d6c9454e39e3b75ae03e",
-      "size": 214980920
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.2/Archmage-1.4.2.exe",
+      "sha256": "61f11b38f2204ea8be3030428714b749d775e8b3f8002a620224cf87bc72ac63",
+      "size": 214980408
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.1/Archmage-1.4.1.apk",
-      "sha256": "220e1e9ac75085941599f7e3e7cab3a762c484d7c47d59916f85bc08a8ccffcf",
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.2/Archmage-1.4.2.apk",
+      "sha256": "8f48cdb7e6728c57ac7405c309165ef0dc5a4d32353b6f1d087ab2eb9f9d8975",
       "size": 128844087
     }
   }
