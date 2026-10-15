@@ -1,15 +1,15 @@
 {
-  "version": "1.4.6",
-  "notes": "Mejoras de juego y de lectura (1.4.6):\n- La ventana ya no se agranda al crear un mago nuevo.\n- Duelo siempre a velocidad normal; orden de turnos y barras compactas quedan fijos.\n- Textos de las escuelas más claros; «Crea tu primer mago» cuando no hay ninguno.\n- Combate: tarjetas junto a los bordes, registro más alto por turnos, escudo integrado a la barra de vida y chips del hechizo con aire.\n- La revista de la casa ya se puede cerrar; la última noche en casa más sobria.\n- Torre, Arena y Grimorio aprovechan mejor la pantalla del PC; el grimorio se lee mejor.\n- Seis escenas de la historia redibujadas para que Rin y Brynja sean los mismos en todas.",
+  "version": "1.4.7",
+  "notes": "Limpieza interna (1.4.7): el proyecto compila sin avisos y los tests, con los paquetes al día. Sin cambios de juego.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.6/Archmage-1.4.6.exe",
-      "sha256": "c1fa75b8c18919b509c395bf7fe7063e4dd66dee1783e480474f3d844d2649e2",
-      "size": 215016064
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.7/Archmage-1.4.7.exe",
+      "sha256": "39c380313de3c80041809a7216fb2ab2409cd81fbcf161f1528f43066ab1f6b8",
+      "size": 215016176
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.6/Archmage-1.4.6.apk",
-      "sha256": "2a28fa70def4ca4125ebb82add78111a9cf18219e73e329330a9893ab24ff7ff",
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.7/Archmage-1.4.7.apk",
+      "sha256": "b2132204c99a7b2571134a539bc67a65378e7b6d686b7a585fce47d0522f21de",
       "size": 128869929
     }
   }
