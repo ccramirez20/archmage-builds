@@ -1,16 +1,16 @@
 {
-  "version": "1.4.5",
-  "notes": "- Crear mago en una sola pantalla: cuerpo, peinado y escuelas. Se quitó la elección de origen.\n- Los hechizos de lengua de dragón ya muestran su icono.\n- Las tarjetas de información, el habla del jefe y los objetivos ya no tapan el mapa: tienen columnas propias a los lados.\n- Textos de escuelas y del sueño del dragón más claros y sin repeticiones.\n- Tutorial: los trepes cuentan para Brynja, puntero magenta en el hechizo y lecciones de pasar el cursor y hacer click.",
+  "version": "1.4.6",
+  "notes": "Mejoras de juego y de lectura (1.4.6):\n- La ventana ya no se agranda al crear un mago nuevo.\n- Duelo siempre a velocidad normal; orden de turnos y barras compactas quedan fijos.\n- Textos de las escuelas más claros; «Crea tu primer mago» cuando no hay ninguno.\n- Combate: tarjetas junto a los bordes, registro más alto por turnos, escudo integrado a la barra de vida y chips del hechizo con aire.\n- La revista de la casa ya se puede cerrar; la última noche en casa más sobria.\n- Torre, Arena y Grimorio aprovechan mejor la pantalla del PC; el grimorio se lee mejor.\n- Seis escenas de la historia redibujadas para que Rin y Brynja sean los mismos en todas.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.5/Archmage-1.4.5.exe",
-      "sha256": "f8451ff33dae691e2f718b9f3cada246956ce3db91a23815e9776532e6349b40",
-      "size": 214979696
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.6/Archmage-1.4.6.exe",
+      "sha256": "c1fa75b8c18919b509c395bf7fe7063e4dd66dee1783e480474f3d844d2649e2",
+      "size": 215016064
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.5/Archmage-1.4.5.apk",
-      "sha256": "ad95dc8686bd11346602a4b89e7e44258ff900a038c1e517eaa6ed0e0c9f07eb",
-      "size": 130725896
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.6/Archmage-1.4.6.apk",
+      "sha256": "2a28fa70def4ca4125ebb82add78111a9cf18219e73e329330a9893ab24ff7ff",
+      "size": 128869929
     }
   }
 }
