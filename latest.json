@@ -1,16 +1,16 @@
 {
-  "version": "1.4.8",
-  "notes": "- Los iconos de Crías, Aliento y Dragón son nuevos y ya no repiten los de otros hechizos: un huevo agrietado, la cruz de llamas y un ojo en un sello, con el color de cada escuela. Se mueven en la barra de hechizos.\n- Botones y paneles nuevos, de pizarra rúnica, con el mismo bloque que sube al pasar el cursor.\n- «Fin de turno» tiene su propia piel cian y un reloj de arena: la arena cae durante tres segundos y el vidrio se gira.\n- Los boons y los puntos de acción y movimiento reciben un destello de vez en cuando.\n- El faro del menú gira su luz.\n- La cima de la Torre tiene braseros dorados con llama espiritual, estandartes que ondean y nubes que derivan.\n- Mapas con vida: lava que late, humo en los volcanes, la fuente de las ruinas brilla solo en el agua, la fogata del vado y los cristales de hielo, la vela del claustro, el zorro que respira y los portales, tornados y plumas de los sueños.",
+  "version": "1.4.9",
+  "notes": "- El duelo en línea vuelve a conectar. Al encontrar rival sale un aviso con 30 segundos para aceptar; si los dos aceptan entran directo al duelo, y si uno no acepta, el otro sigue buscando solo. Cancelar la búsqueda ya no deja fantasmas.\n- El menú de duelo es nuevo: una barra con botones (retrato, usuario, ranking, sala, buscar rival) y un asistente de cinco pasos para elegir formato, equipo, hechizos y formación. Lo elegido lleva borde dorado y ✔. Si «Listo» no puede, dice qué falta y señala dónde arreglarlo.\n- El último equipo del duelo se guarda con sus hechizos, la formación, el formato y el mapa.\n- El ranking muestra el equipo de cada jugador. El Grimorio y el duelo muestran las dos palabras de dragón y cómo ganarlas.\n- En la tablet todo se ve más grande (la interfaz arranca a ×1.25). Botones y cuadros sin puntos ni rayas a los lados.\n- Tutoriales: Gerd invoca de inmediato (meta «Pasa el turno»), el terreno alto del cabo está junto a Rin y Brynja también se esconde tras un pilar. El registro de combate se mueve solo desde su barra.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.8/Archmage-1.4.8.exe",
-      "sha256": "4d8927c689c7e190698ee4520df4b91a5253cb5c55fb6091c4abf04b27453820",
-      "size": 215261432
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.9/Archmage-1.4.9.exe",
+      "sha256": "fbb2be53a9ddb9eeea084ba01818d5bb71bc0f4bb7ed3ee95b415fdf45406c4d",
+      "size": 215294568
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.8/Archmage-1.4.8.apk",
-      "sha256": "d7fa81c865d53f9b3fe8dc607e8a7d73ee03f114819acc57e47134c87b21e5b3",
-      "size": 129170600
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.9/Archmage-1.4.9.apk",
+      "sha256": "fa33904f860f9e093bf78798fa1a2f33de6f508db91e3e42a00296041d4b9147",
+      "size": 131071713
     }
   }
 }
