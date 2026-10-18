@@ -1,16 +1,16 @@
 {
-  "version": "1.4.7",
-  "notes": "Limpieza interna (1.4.7): el proyecto compila sin avisos y los tests, con los paquetes al día. Sin cambios de juego.",
+  "version": "1.4.8",
+  "notes": "- Los iconos de Crías, Aliento y Dragón son nuevos y ya no repiten los de otros hechizos: un huevo agrietado, la cruz de llamas y un ojo en un sello, con el color de cada escuela. Se mueven en la barra de hechizos.\n- Botones y paneles nuevos, de pizarra rúnica, con el mismo bloque que sube al pasar el cursor.\n- «Fin de turno» tiene su propia piel cian y un reloj de arena: la arena cae durante tres segundos y el vidrio se gira.\n- Los boons y los puntos de acción y movimiento reciben un destello de vez en cuando.\n- El faro del menú gira su luz.\n- La cima de la Torre tiene braseros dorados con llama espiritual, estandartes que ondean y nubes que derivan.\n- Mapas con vida: lava que late, humo en los volcanes, la fuente de las ruinas brilla solo en el agua, la fogata del vado y los cristales de hielo, la vela del claustro, el zorro que respira y los portales, tornados y plumas de los sueños.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.7/Archmage-1.4.7.exe",
-      "sha256": "39c380313de3c80041809a7216fb2ab2409cd81fbcf161f1528f43066ab1f6b8",
-      "size": 215016176
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.8/Archmage-1.4.8.exe",
+      "sha256": "4d8927c689c7e190698ee4520df4b91a5253cb5c55fb6091c4abf04b27453820",
+      "size": 215261432
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.7/Archmage-1.4.7.apk",
-      "sha256": "b2132204c99a7b2571134a539bc67a65378e7b6d686b7a585fce47d0522f21de",
-      "size": 128869929
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.8/Archmage-1.4.8.apk",
+      "sha256": "d7fa81c865d53f9b3fe8dc607e8a7d73ee03f114819acc57e47134c87b21e5b3",
+      "size": 129170600
     }
   }
 }
