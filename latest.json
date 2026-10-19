@@ -1,16 +1,16 @@
 {
-  "version": "1.4.9",
-  "notes": "- El duelo en línea vuelve a conectar. Al encontrar rival sale un aviso con 30 segundos para aceptar; si los dos aceptan entran directo al duelo, y si uno no acepta, el otro sigue buscando solo. Cancelar la búsqueda ya no deja fantasmas.\n- El menú de duelo es nuevo: una barra con botones (retrato, usuario, ranking, sala, buscar rival) y un asistente de cinco pasos para elegir formato, equipo, hechizos y formación. Lo elegido lleva borde dorado y ✔. Si «Listo» no puede, dice qué falta y señala dónde arreglarlo.\n- El último equipo del duelo se guarda con sus hechizos, la formación, el formato y el mapa.\n- El ranking muestra el equipo de cada jugador. El Grimorio y el duelo muestran las dos palabras de dragón y cómo ganarlas.\n- En la tablet todo se ve más grande (la interfaz arranca a ×1.25). Botones y cuadros sin puntos ni rayas a los lados.\n- Tutoriales: Gerd invoca de inmediato (meta «Pasa el turno»), el terreno alto del cabo está junto a Rin y Brynja también se esconde tras un pilar. El registro de combate se mueve solo desde su barra.",
+  "version": "1.4.10",
+  "notes": "- La barra del jugador (hechizos, vida, maná, puntos y «Fin de turno») cabe entera en pantalla en la tablet, sin scroll. El mapa se ve completo y centrado: si no cabe, la cámara baja el zoom.\n- Si «Fin de turno» está apagado, debajo dice por qué (turno del rival, resolviendo, colocando al grupo).\n- Colocar al grupo: el botón «¡Listo!» ocupa el lugar de «Fin de turno» y una línea indica el paso. Nada flota sobre el mapa.\n- Duelo: cada paso dice qué hacer. «Siguiente» se bloquea hasta completar el paso y «Listo» solo aparece en el último, encendido cuando hay sala, rival y equipo válido. Formato y mapa muestra el mapa completo con las zonas de salida de los dos bandos.\n- En duelo, tu mago lleva el nombre de tu cuenta en vez de «Rin».\n- Lo elegido se marca igual en todas partes (borde dorado y ✔): hechizos del duelo, mazo del Grimorio, arena. Los límites de 6 y de 3 de la secundaria avisan en rojo. La Arena muestra la dificultad en cada botón.\n- El tamaño de la interfaz es fijo por dispositivo (PC ×1, tablet ×1.25) y se quitó la opción de los ajustes.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.9/Archmage-1.4.9.exe",
-      "sha256": "fbb2be53a9ddb9eeea084ba01818d5bb71bc0f4bb7ed3ee95b415fdf45406c4d",
-      "size": 215294568
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.10/Archmage-1.4.10.exe",
+      "sha256": "be86b5ddf7634eb9d3527d1607b39e345cc88e5fcbf49662c99cd21819493dfe",
+      "size": 215302648
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.9/Archmage-1.4.9.apk",
-      "sha256": "fa33904f860f9e093bf78798fa1a2f33de6f508db91e3e42a00296041d4b9147",
-      "size": 131071713
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.10/Archmage-1.4.10.apk",
+      "sha256": "fcbc43e318a6be258bf046c50e9eee2410a740a4c633244d9d77b2edbb09ebbc",
+      "size": 129195266
     }
   }
 }
