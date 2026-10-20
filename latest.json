@@ -1,16 +1,16 @@
 {
-  "version": "1.4.10",
-  "notes": "- La barra del jugador (hechizos, vida, maná, puntos y «Fin de turno») cabe entera en pantalla en la tablet, sin scroll. El mapa se ve completo y centrado: si no cabe, la cámara baja el zoom.\n- Si «Fin de turno» está apagado, debajo dice por qué (turno del rival, resolviendo, colocando al grupo).\n- Colocar al grupo: el botón «¡Listo!» ocupa el lugar de «Fin de turno» y una línea indica el paso. Nada flota sobre el mapa.\n- Duelo: cada paso dice qué hacer. «Siguiente» se bloquea hasta completar el paso y «Listo» solo aparece en el último, encendido cuando hay sala, rival y equipo válido. Formato y mapa muestra el mapa completo con las zonas de salida de los dos bandos.\n- En duelo, tu mago lleva el nombre de tu cuenta en vez de «Rin».\n- Lo elegido se marca igual en todas partes (borde dorado y ✔): hechizos del duelo, mazo del Grimorio, arena. Los límites de 6 y de 3 de la secundaria avisan en rojo. La Arena muestra la dificultad en cada botón.\n- El tamaño de la interfaz es fijo por dispositivo (PC ×1, tablet ×1.25) y se quitó la opción de los ajustes.",
+  "version": "1.6.0",
+  "notes": "- Grimorio vivo: cada combate abres una mano de páginas de tu mazo de doce; puedes pasar página, cambiar la mano y marcar una página que siempre empieza. Barra de mano más baja: el mapa es el foco.\n- Subir de nivel te ofrece tres páginas para elegir (con un relanzamiento). La tira de abajo muestra cómo cambia tu grimorio. Lo que no eliges vuelve más adelante como un «Eco» mejorado (✦).\n- Pantalla del Grimorio y de la Arena en pestañas: Combate · Mazo · Colección · Mago. Combate muestra el mapa grande, los rivales y tus aliados con un solo botón. La Colección es más legible y la vista previa del hechizo muestra más terreno.\n- Menú principal con tarjetas por modo y tu progreso debajo. Torre con fondo nocturno y el piso en detalle.\n- Seis mapas vivos con eventos (marea, brasas, derrumbe, viento, niebla, haz) que se avisan una ronda antes.\n- Tutorial por etapas con overlays guiados la primera vez que usas cada pieza.\n- Duelo: reconexión de 90 s si se cae la conexión, y «Guardar equipo» en lugar de «Listo».\n- Los guardados antiguos se migran al abrir; no pierdes nada.",
   "platforms": {
     "windows": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.10/Archmage-1.4.10.exe",
-      "sha256": "be86b5ddf7634eb9d3527d1607b39e345cc88e5fcbf49662c99cd21819493dfe",
-      "size": 215302648
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.6.0/Archmage-1.6.0.exe",
+      "sha256": "3b9dd43edda4a248a3238645779dc5274c16b0fea1042840ca1fdd39b22581b4",
+      "size": 215674448
     },
     "android": {
-      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.4.10/Archmage-1.4.10.apk",
-      "sha256": "fcbc43e318a6be258bf046c50e9eee2410a740a4c633244d9d77b2edbb09ebbc",
-      "size": 129195266
+      "file": "https://github.com/ccramirez20/archmage-builds/releases/download/v1.6.0/Archmage-1.6.0.apk",
+      "sha256": "93262d50fa4e8819dd37ac5d7767469f745fa17441363ca5952aa61830c6d590",
+      "size": 129436116
     }
   }
 }
